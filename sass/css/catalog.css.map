@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACE,AAAD,cAAO,CAAC;EACP,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;EAC9B,SAAS,EAAE,IAAI;CAEM;;AADpB,AAAD,mBAAM,CAAC;EACN,UAAU,EAAE,GAAG;CAAG",
+    "sources": [
+        "../blocks/catalog.sass"
+    ],
+    "names": [],
+    "file": "catalog.css"
+}
