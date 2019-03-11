@@ -14,7 +14,8 @@
         "../sass/blocks/_catalog.sass",
         "../sass/blocks/_blog-list.sass",
         "../sass/blocks/_price.sass",
-        "../sass/blocks/_steps.sass"
+        "../sass/blocks/_steps.sass",
+        "../sass/blocks/_reviews.sass"
     ],
     "names": [],
     "file": "style.css"
